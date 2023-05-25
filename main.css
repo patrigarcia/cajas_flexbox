@@ -58,7 +58,7 @@
 @media screen and (min-width:992px) {
 
     #caja {
-        background-color: blueviolet;
+        background-color: rgb(208, 180, 235);
         width: 80%;
         margin: 0 auto;
     }
@@ -70,7 +70,7 @@
     }
 
     .cajita {
-        background-color: aquamarine;
+        background-color: rgb(9, 116, 80);
         width: calc(33.33% - 20px);
     }
 
